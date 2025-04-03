@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "..\\DatabaseAPI\\DatabaseAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\DataCollectorAPI\\DataCollectorAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\PriceAnalyzerAPI\\PriceAnalyzerAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\SchedulerAPI\\SchedulerAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

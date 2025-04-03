@@ -1,0 +1,14 @@
+BTCFuturesTest/.vs/
+BTCFuturesTest/bin/
+BTCFuturesTest/obj/
+DatabaseAPI/bin/
+DatabaseAPI/obj/
+DataCollectorAPI/bin/
+DataCollectorAPI/obj/
+Domain/bin/
+Domain/obj/
+PriceAnalyzerAPI/bin/
+PriceAnalyzerAPI/obj/
+Scheduler Service/obj/
+SchedulerAPI/bin/
+SchedulerAPI/obj/
